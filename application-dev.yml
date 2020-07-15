@@ -1,6 +1,6 @@
 ﻿program:
   name: myconfig-dev
-  ver: 1.0V
+  ver: 2.0V
 
 active:
   dev
